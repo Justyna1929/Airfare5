@@ -25,7 +25,8 @@ As the data analyst of a company, you are presented with the airfare data coveri
 ---
 
 ## 3. Intermediate Challenge
-- What is the percent change 64 in average fare from 2007 to 2017 by flight? How about from 1997 to 2017? 
+- What is the percent change in average fare from 2007 to 2017 by flight? 
+- How about from 1997 to 2017? 
 - How would you describe the overall trend in airfares from 1997 to 2017, as compared 2007 to 2017?
 
 ## 4. Advanced Challenge
