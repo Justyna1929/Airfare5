@@ -1,0 +1,22 @@
+-- Creating main table for analysis
+
+CREATE TABLE "airfare_data" (
+	"Year"	NUMERIC,
+	"Quarter"	INTEGER,
+	"citymarketid_1"	TEXT,
+	"citymarketid_2"	INTEGER,
+	"city1"	TEXT,
+	"city2"	TEXT,
+	"nsmiles"	NUMERIC,
+	"passengers"	INTEGER,
+	"fare"	NUMERIC,
+	"carrier_lg"	TEXT,
+	"large_ms"	TEXT,
+	"fare_lg"	NUMERIC,
+	"carrier_low"	TEXT,
+	"If_ms"	TEXT,
+	"fare_low"	TEXT,
+	"table_1_flag"	NUMERIC,
+	"Geocoded_City1"	TEXT,
+	"Geocoded_City2"	TEXT
+)
