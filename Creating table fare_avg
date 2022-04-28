@@ -1,0 +1,7 @@
+-- Creating a new table made in Excel
+
+CREATE TABLE "Fare_avg2" (
+	"Airlines"	TEXT,
+	"Numberofflights"	INTEGER,
+	"avgFARELOW"	TEXT
+)
