@@ -1,6 +1,6 @@
 # 📝 About project Airfare5
 ---
-This project is an independent data science project 5 from **Codeacademy**. This project is broken down into key questions that your client or company is looking to answer. As a data scientist, you’ll often become a resource to help businesses answer the key questions about the efficacy of existing or potential strategies & projects.
+This project is an [independent data science project 5](https://discuss.codecademy.com/t/data-science-independent-project-5-analyze-airfare-data/419949) from **Codeacademy**. This project is broken down into key questions that your client or company is looking to answer. As a data scientist, you’ll often become a resource to help businesses answer the key questions about the efficacy of existing or potential strategies & projects.
 
 # 🎯 Objective
 ---
